@@ -21,7 +21,7 @@
     }
   ],
   "env": {
-    "GROQ_API_KEY": "@groq-api-key",
-    "JWT_SECRET": "your_super_secret_jwt_key_here_123456789"
+    "GROQ_API_KEY": "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",
+    "JWT_SECRET": "contentgen_pro_secret_key_2024_secure_jwt_token"
   }
 }
